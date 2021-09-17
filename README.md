@@ -9,11 +9,13 @@ The files in this repository were used to configure the network depicted below.
 ![TODO: Update the path with the name of your diagram](Diagrams/diagram.png)
 
 
-###Results:
-###Kibana real-time metrics and logging visulizations using Metricbeat and Filebeat:
-####Metricbeat Graph:
+### Results:
+### Kibana real-time metrics and logging visulizations using Metricbeat and Filebeat:
+#### Metricbeat Graph:
+
 ![Metricbeat Graph](Images/Metricbeat System.png)
-####Filebeat Graph:
+#### Filebeat Graph:
+
 ![Filebaet Graph](Images/Filebeat System.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
